@@ -20,7 +20,11 @@ images:
 
 # Album Images
 
+Voorbeeld van een foto op het internet:
+
 ![foto beeld](https://julieverhelst.weebly.com/uploads/4/6/3/0/4630015/edited/fb-20131212-14-35-42-saved-picture.jpg?1583769443)
+
+Voorbeeld van een foto in mijn repostiry:
 
 ![foto beeld]({{ site.baseurl }})/assets/fb-20131212-14-35-42-saved-picture.jpg)
 
