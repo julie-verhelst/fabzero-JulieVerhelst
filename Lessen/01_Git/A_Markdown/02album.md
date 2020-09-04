@@ -26,6 +26,6 @@ Voorbeeld van een foto op het internet:
 
 Voorbeeld van een foto in mijn repostiry:
 
-![foto beeld]({{ site.baseurl }})/assets/fb-20131212-14-35-42-saved-picture.jpg)
+![foto beeld]({{ site_baseurl }})/assets/fb-20131212-14-35-42-saved-picture.jpg)
 
 {% include album.liquid data=page.images %}
