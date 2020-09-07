@@ -12,7 +12,7 @@ Toen mijn werk enkele jaren geleden door een minder interessante fase ging, zoch
 
 ![Handtassen]({{ site.baseurl }}/assets/Handtassen.jpg)
 
-Professioneel werk ik als erfgoedonderzoeker bij het agentschap Onroerend Erfgoed van de Vlaamse Overheid sinds ik afstudeerde in 2013. Concreet hou ik me momenteel hoofdzakelijk bezig met het actualiseren en reviseren van de online inventarisdatabank van het onroerend erfgoed. Daarnaast werkte ik in het verleden ook mee aan inventarisatieprojecten van bouwkundig erfgoed en voerde ik onderzoek in functie van beschermingsdossiers. Ik heb dus ook een grote passie voor en interesse in architectuur.
+Professioneel werk ik als erfgoedonderzoeker bij het _agentschap Onroerend Erfgoed_ van de Vlaamse Overheid sinds ik afstudeerde in 2013. Concreet hou ik me momenteel hoofdzakelijk bezig met het actualiseren en reviseren van de online inventarisdatabank van het onroerend erfgoed. Daarnaast werkte ik in het verleden ook mee aan inventarisatieprojecten van bouwkundig erfgoed en voerde ik onderzoek in functie van beschermingsdossiers. Ik heb dus ook een grote passie voor en interesse in architectuur.
 
 ## Opleidingen
 
