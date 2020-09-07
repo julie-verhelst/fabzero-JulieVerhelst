@@ -8,11 +8,11 @@ Al van kindsaf ben ik gepassioneerd door tekenen. Enkele jaren later, toen ik 16
 
 ![Beeld]({{ site.baseurl }}/assets/beeld2.jpg)
 
-Toen mijn werk enkele jaren geleden door een minder interessante fase ging, zocht ik een nieuwe uitdaging in een avondopleiding. Bij Syntra West startte ik de opleidingen **Marokijnbewerker en Schoenhersteller**. Hier leerde ik de kenmerken van leder en andere materialen kennen, en ontwikkelde ik verschillende vaardigheden over het ontwerpen en herstellen van diverse lederwaren. Ik volgde nadien nog een bijkomende opleiding schoenherstellen in Lokeren. Bij me thuis breidde mijn ateliertje dus ook uit met naaimachines, een combiné voor het herstellen van schoenen, en een grote voorraad aan kleurrijk leder.  
+Toen mijn werk enkele jaren geleden door een minder interessante fase ging, zocht ik een nieuwe uitdaging in een avondopleiding. Bij Syntra West startte ik de opleidingen **Marokijnbewerker en Schoenhersteller**. Hier leerde ik de kenmerken van leder en andere materialen kennen, en ontwikkelde ik verschillende vaardigheden over het ontwerpen en herstellen van diverse lederwaren. Ik volgde nadien nog een bijkomende opleiding schoenherstellen in Lokeren. Thuis breidde mijn ateliertje dus ook uit met naaimachines, een combiné voor het herstellen van schoenen, en een grote voorraad aan kleurrijk leder.  
 
 ![Handtassen]({{ site.baseurl }}/assets/Handtassen.jpg)
 
-Professioneel werk ik als erfgoedonderzoeker bij het _agentschap Onroerend Erfgoed_ van de Vlaamse Overheid sinds ik afstudeerde in 2013. Concreet hou ik me momenteel hoofdzakelijk bezig met het actualiseren en reviseren van de online inventarisdatabank van het onroerend erfgoed. Daarnaast werkte ik in het verleden ook mee aan inventarisatieprojecten van bouwkundig erfgoed en voerde ik onderzoek in functie van beschermingsdossiers. Ik heb dus ook een grote passie voor en interesse in architectuur.
+Professioneel werk ik als erfgoedonderzoeker bij het _agentschap Onroerend Erfgoed_ van de Vlaamse Overheid sinds ik afstudeerde in 2013. Concreet hou ik me momenteel hoofdzakelijk bezig met het actualiseren en reviseren van de [online inventarisdatabank van het onroerend erfgoed](https://inventaris.onroerenderfgoed.be/). Daarnaast werkte ik in het verleden ook mee aan inventarisatieprojecten van bouwkundig erfgoed, bijvoorbeeld van naoorlogse architectuur in Gent, en voerde ik onderzoek in functie van beschermingsdossiers. Naast beeldende kunst, heb ik dus ook een grote passie voor en interesse in architectuur.
 
 ## Opleidingen
 
