@@ -13,14 +13,14 @@ Een voorbeeld van een testje:
 
 **123D Make & Fusion 360 Slicer**
 
-Met deze tool kan je ook een 3D ontwerp creëren, door middel van een gelaagde opbouw. 
+Met deze tool kan je ook een 3D ontwerp creëren door middel van een gelaagde opbouw. 
 We gingen aan de slag met één van de voorbeelden en testten de mogelijkheden van het programma uit:
 
 ![Fusion 360 Slicer]({{ site.baseurl }}/assets/Slicer_test.jpg)
 
 **Flatfab**
 
-Met deze toepassing kan je een eigen, complexe figuur tekenen. Dit vraagt wel nog wat oefening...
+Met deze toepassing kan je een complexe figuur tekenen. Dit vraagt wel nog wat oefening...
 
 ![Flatfab]({{ site.baseurl }}/assets/flatfab.jpg)
 
@@ -35,7 +35,7 @@ Daarna gingen we aan de slag met een aantal voorbeeldafbeeldingen en maakten hie
 
 ![Inkscape]({{ site.baseurl }}/assets/Inkscape.jpg)
 
-Voor de opdracht van deze les, maakte ik een doosje met de box generator, dat ik daarna personaliseerde in Inkscape. Het silhouet op de ene zijde is gevectoriseerd van een foto van een gipsen beeld dat ik zelf maakte. Voor de bodem maakten ik een groter vlak, met uitsnijdingen gebaseerd op een patroon dat ik online vond en vervolgens aanpaste aan de vorm die ik graag wilde. 
+Voor de opdracht van deze les, maakte ik een doosje met de box generator, dat ik daarna personaliseerde in Inkscape. Het silhouet op de ene zijde is gevectoriseerd van een foto van een gipsen beeld dat ik zelf maakte. Voor de bodem maakte ik een groter vlak, met uitsnijdingen gebaseerd op een patroon dat ik online vond en vervolgens aanpaste. 
 
 ![Inkscape doosje]({{ site.baseurl }}/assets/Inkscape_box.jpg)
 
@@ -43,7 +43,7 @@ De zijkanten van het doosje werden als eerste gelaserd:
 
 ![Lasercut doosje]({{ site.baseurl }}/assets/Doosje_lasercut.jpg)
 
-De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te maken. Ik demonteerde het doosje dus terug en herwerkte mijn ontwerp in Inkscape= ik voegde ook in de zijkanten een patroon van uitsnijdingen toe, zodat er een lichteffect kan ontstaan, en in de achterkant een opening voor de kabel. 
+De grootte van het doosje liet eigenlijk wel toe om er een sfeerlampje van te maken. Ik demonteerde het doosje dus terug en herwerkte mijn ontwerp in Inkscape: ik voegde ook in de zijkanten een patroon van uitsnijdingen toe, zodat er een lichteffect kan ontstaan, en in de achterkant een opening voor de kabel. 
 
 ![Lasercut patroon zijden]({{ site.baseurl }}/assets/Inkscape_box_pattern.jpg)
 
@@ -59,11 +59,11 @@ En zo kwam ik tot dit resultaat:
 
 ![Lasercut doosje]({{ site.baseurl }}/assets/Result.jpg) 
 
-Daarnaast maakte ik ook een ontwerp in Inkscape met een logo dat ik recent met de hand tekende voor de zaak van mijn man. De twee linkse versies zijn gespiegeld en dus bedoeld voor een stempel.
+Daarnaast maakte ik ook een ontwerp voor een stempel in Inkscape met een logo dat ik recent met de hand tekende voor de zaak van mijn man:
 
-![Inkscape logo]({{ site.baseurl }}/assets/Inkscape_logo.jpg)
+![Inkscape logo]({{ site.baseurl }}/assets/Inkscape_stempel.jpg)
 
-Dit was het resultaat van het laseren:
+Dit was het resultaat van het laseren in het rubber:
 
 ![Stempels]({{ site.baseurl }}/assets/Stempel.jpg) 
 
