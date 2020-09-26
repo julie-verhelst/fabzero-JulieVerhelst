@@ -43,8 +43,18 @@ De zijkanten van het doosje werden ondertussen al uitgelaserd! De bovenkant moet
 
 ![Lasercut doosje]({{ site.baseurl }}/assets/Doosje_lasercut.jpg)
 
-De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te maken. Ik ben dus van plan om de zijkanten nog opnieuw te laseren met een patroon van uitsnijdingen, zodat er een lichteffect kan ontstaan, en in de achterkant voorzie ik best ook nog een opening voor de kabel. En de bodem moet natuurlijk ook nog gelaserd worden. To be continued!...
+De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te maken. Ik demonteerde het doosje dus terug en laserde nog een patroon van uitsnijdingen in de zijkanten, zodat er een lichteffect kan ontstaan, en in de achterkant een opening voor de kabel. 
 
-Daarnaast maakte ik ook een ontwerp in Inkscape met een logo dat ik recent met de hand tekende voor de zaak van mijn man. De twee linkse versies zijn gespiegeld en dus bedoeld voor een stempel. Het rechtse is een ontwerp voor een sleutelhanger. Deze ontwerpen moeten nog uitgevoerd worden met de lasercutter... 
+![zijkanten doosje]({{ site.baseurl }}/assets/Box_sides.jpg) ![zijkanten doosje 2]({{ site.baseurl }}/assets/Box_sides_2.jpg) 
+
+En dan moest de bodem ook nog uitgelaserd worden:
+
+![Lasercut doosje]({{ site.baseurl }}/assets/Result.jpg) 
+
+Daarnaast maakte ik ook een ontwerp in Inkscape met een logo dat ik recent met de hand tekende voor de zaak van mijn man. De twee linkse versies zijn gespiegeld en dus bedoeld voor een stempel.
 
 ![Inkscape logo]({{ site.baseurl }}/assets/Inkscape_logo.jpg)
+
+Dit was het resultaat van het laseren:
+
+![Stempels]({{ site.baseurl }}/assets/Stempel.jpg) 
