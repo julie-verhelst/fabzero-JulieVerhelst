@@ -6,7 +6,7 @@ Om tot een 'printable file' te komen, bestaan er verschillende ontwerptools. Met
 
 **Tinkercad**
 
-Deze online toepassing laat toe om relatief eenvoudig een 3D-ontwerp te maken, aan de hand van een vormenbibliotheek. We deeen 
+Deze online toepassing laat toe om relatief eenvoudig een 3D-ontwerp te maken, aan de hand van een vormenbibliotheek. We deden enkele kleine testjes:
 
 ![Tinkercad test1]({{ site.baseurl }}/assets/tiker.jpg) 
 
