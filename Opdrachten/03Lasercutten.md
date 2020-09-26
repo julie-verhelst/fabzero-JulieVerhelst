@@ -49,6 +49,10 @@ De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te ma
 
 En dan moest de bodem ook nog uitgelaserd worden:
 
+![Lasercutter]({{ site.baseurl }}/assets/Lasercutter.jpg)
+
+En zo kwam ik tot dit resultaat:
+
 ![Lasercut doosje]({{ site.baseurl }}/assets/Result.jpg) 
 
 Daarnaast maakte ik ook een ontwerp in Inkscape met een logo dat ik recent met de hand tekende voor de zaak van mijn man. De twee linkse versies zijn gespiegeld en dus bedoeld voor een stempel.
