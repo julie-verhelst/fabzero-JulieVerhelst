@@ -67,7 +67,8 @@ Dit was het resultaat van het laseren:
 
 ![Stempels]({{ site.baseurl }}/assets/Stempel.jpg) 
 
-## Files opdracht
+**Inkscape-files**
 
 [File Lampje]({{ site.baseurl }}/assets/Laserfile.svg)
+
 [File Stempel]({{ site.baseurl }}/assets/LogoDEF.svg)
