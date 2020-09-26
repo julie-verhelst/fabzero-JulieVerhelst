@@ -35,17 +35,21 @@ Daarna gingen we aan de slag met een aantal voorbeeldafbeeldingen en maakten hie
 
 ![Inkscape]({{ site.baseurl }}/assets/Inkscape.jpg)
 
-Voor de opdracht van deze les, maakte ik een doosje met de box generator, dat ik daarna personaliseerde in Inkscape. Het silhouet op de ene zijde is gevectoriseerd van een foto van een gipsen beeld dat ik zelf maakte. Voor de bodem maakten ik een groter vlak, met uitsnijdingen gebaseerd op een patroon dat ik online vond. 
+Voor de opdracht van deze les, maakte ik een doosje met de box generator, dat ik daarna personaliseerde in Inkscape. Het silhouet op de ene zijde is gevectoriseerd van een foto van een gipsen beeld dat ik zelf maakte. Voor de bodem maakten ik een groter vlak, met uitsnijdingen gebaseerd op een patroon dat ik online vond en vervolgens aanpaste aan de vorm die ik graag wilde. 
 
 ![Inkscape doosje]({{ site.baseurl }}/assets/Inkscape_box.jpg)
 
-De zijkanten van het doosje werden ondertussen al uitgelaserd! De bovenkant moet wel nog geschuurd worden..
+De zijkanten van het doosje werden als eerste gelaserd:
 
 ![Lasercut doosje]({{ site.baseurl }}/assets/Doosje_lasercut.jpg)
 
-De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te maken. Ik demonteerde het doosje dus terug en laserde nog een patroon van uitsnijdingen in de zijkanten, zodat er een lichteffect kan ontstaan, en in de achterkant een opening voor de kabel. 
+De grootte van het doosje laat eigenlijk wel toe om er een sfeerlampje van te maken. Ik demonteerde het doosje dus terug en herwerkte mijn ontwerp in Inkscape= ik voegde ook in de zijkanten een patroon van uitsnijdingen toe, zodat er een lichteffect kan ontstaan, en in de achterkant een opening voor de kabel. 
 
-![zijkanten doosje]({{ site.baseurl }}/assets/Box_sides.jpg) ![zijkanten doosje 2]({{ site.baseurl }}/assets/Box_sides_2.jpg) 
+![Lasercut patroon zijden]({{ site.baseurl }}/assets/Inkscape_box_pattern.jpg)
+
+![zijkanten doosje]({{ site.baseurl }}/assets/Box_sides.jpg) 
+
+![zijkanten doosje 2]({{ site.baseurl }}/assets/Box_sides_2.jpg) 
 
 En dan moest de bodem ook nog uitgelaserd worden:
 
@@ -62,3 +66,8 @@ Daarnaast maakte ik ook een ontwerp in Inkscape met een logo dat ik recent met d
 Dit was het resultaat van het laseren:
 
 ![Stempels]({{ site.baseurl }}/assets/Stempel.jpg) 
+
+## Files opdracht
+
+[File Lampje]({{ site.baseurl }}/assets/Laserfile.svg)
+[File Stempel]({{ site.baseurl }}/assets/LogoDEF.svg)
