@@ -30,4 +30,12 @@ Dit was het resultaat van de oefening in Onshape:
 
 **Opdracht**
 
-Als opdracht moeten we een add-on voor op een potlood ontwerpen.. Ik ga alvast aan de slag met een ontwerp op papier, en daarna oefen ik met de tools die in de les aan bod kwamen en volg de extra lessen over Onshape en Fusion 360.
+Als opdracht moeten we een add-on voor op een potlood ontwerpen.. Ik ging alvast aan de slag met een ontwerp op papier en vertrok vanuit het logo dat ik ook laserde als stempel. Dit tekende ik nadien in Onshape na de extra lessen Onshape en Fusion 360:
+
+![Onshape ontwerp]({{ site.baseurl }}/assets/Addon1.JPG) ![Onshape ontwerp]({{ site.baseurl }}/assets/Addon2.JPG) 
+
+Met hulp in het lab in Drongen werd dit ontwerp geprint in 3D:
+
+![Printen]({{ site.baseurl }}/assets/Printing.jpg)
+
+![Potlood]({{ site.baseurl }}/assets/Potlood.jpg)
