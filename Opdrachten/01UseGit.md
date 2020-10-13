@@ -19,8 +19,7 @@ Professioneel werk ik als erfgoedonderzoeker bij het _agentschap Onroerend Erfgo
 * 2001-2007: Stedelijke academie voor Schone Kunsten van Deinze, Deeltijds Kunstonderwijs
 * 2005-heden: Beeldhouwen in steen bij vzw Art pro Art
 * 2007-2011: Bachelor en master in de Kunstwetenschappen, Universiteit Gent
-* 2011-2013: Master in de Momumenten-en Landschapszorg, Artesis Antwerpen
-* 2011-2013: Stedelijke Kunstacademie van Tielt, Deeltijds Kunstonderwijs, optie Beeldhouwen
+* 2011-2013: Master in de Monumenten-en Landschapszorg, Artesis Antwerpen
 * 2016-2017: Avondopleiding Schoenhersteller bij Syntra West
 * 2016-2019: Avondopleiding Marokijnbewerker bij Syntra West
 * 2018-2019: Avondopleiding Schoenhersteller bij CVO Scheldeland, Lokeren
