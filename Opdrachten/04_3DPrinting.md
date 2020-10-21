@@ -39,3 +39,5 @@ Met hulp in het lab in Drongen werd dit ontwerp geprint in 3D:
 ![Printen]({{ site.baseurl }}/assets/Printing.jpg)
 
 ![Potlood]({{ site.baseurl }}/assets/Potlood.jpg)
+
+[File potlood addon]({{ site.baseurl }}/assets/Potlood_addon.stl)
