@@ -1,7 +1,7 @@
 # Digitaal borduren
 
 In deze les kwamen we meer te weten over Smart Textile en digitaal borduren.
-In Inkscape deden we enkele oefeningen met de plugin Ink/sketch:
+In Inkscape deden we enkele oefeningen met de plugin Ink/stitch:
 
 ![inkscape nasa]({{ site.baseurl }}/assets/Inkscape_nasa.jpg) 
 
@@ -14,3 +14,6 @@ Nadien maakte ik een eigen ontwerp gebaseerd op een tekening voor een geboorteka
 ![inkscape marthe]({{ site.baseurl }}/assets/Inkscape_marthe.jpg) 
 
 ![inkscape borduurfile]({{ site.baseurl }}/assets/Borduurfile.jpg)
+
+In de workshop konden we hier in de parktijk mee aan de slag en werd het ontwerp geborduurd:
+
