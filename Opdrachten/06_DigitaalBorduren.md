@@ -17,3 +17,6 @@ Nadien maakte ik een eigen ontwerp gebaseerd op een tekening voor een geboorteka
 
 In de workshop konden we hier in de parktijk mee aan de slag en werd het ontwerp geborduurd:
 
+![borduren]({{ site.baseurl }}/assets/Borduren.jpg) 
+
+![patch]({{ site.baseurl }}/assets/Patch.jpg)
